@@ -1,0 +1,96 @@
+
+*{
+        font-family: "Bebas Neue", sans-serif; 
+        font-weight: 400;
+        font-style: normal;
+        
+        
+}
+ /*  */
+.imghead{
+    background-image: url(../img/f1.jpg);
+    background-position: 50% 37%;
+    background-repeat: no-repeat;
+    height: 400px; 
+    text-align: start;
+    padding: 50px 0px 0px 200px;
+}
+
+/* inicio carrusel de imagenes */
+.carousel-item img{
+    object-fit: cover;
+    object-position: center; 
+    height: 400px; 
+}
+
+/* inicio de barra de navegacion */
+.barraDeNavegacion{
+    background: #2e3474;
+}
+
+.barraDeNavegacion nav a:hover{
+    background-color: rgb(40, 23, 153);
+    transform: scale(0.9);
+}
+
+/* seccion experiencia laboral */
+
+#experienciaL{
+    background-color: #2e3474; 
+    color: white;
+}
+
+.card img{
+
+    width: 100%;
+   
+}
+
+/* formacion academica academica */
+.btn {
+    background-color: #2e3474;
+    color: white;
+    
+    
+}
+
+/*  seccion cursos y habilidades */
+#cursos{
+    background-color: #2e3474; 
+    color: white;
+}
+
+.icono {
+    text-align: center;}
+
+
+/*  seccion contactos */
+
+i:hover {
+    color: #2e3474;
+    transform: scale(1.2);
+}
+
+
+/* seccion final redes sociales */
+footer{
+    background-color: #2e3474; 
+    color: white;
+}
+
+
+
+
+
+
+
+          
+    
+    
+    
+
+
+
+    
+
+
