@@ -28,7 +28,7 @@ body{
 /* inicio de barra de navegacion */
 .barraDeNavegacion{
     background: #2e3474;
-    width: 100%;
+     max-width: 100%;
 }
 
 .barraDeNavegacion nav a:hover{
